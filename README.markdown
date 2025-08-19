@@ -1,6 +1,6 @@
 # Fetal Health Prediction Project
 
-Welcome to the Fetal Health Prediction Project, developed by Sakshi Patil. This web-based application leverages machine learning to predict fetal health status (Normal, Suspect, or Pathological) based on fetal heart rate parameters. Launched and completed by August 19, 2025, at 08:22 PM IST, this project offers a user-friendly interface with an orange theme and robust predictive capabilities.
+Welcome to the Fetal Health Prediction Project. This web-based application leverages machine learning to predict fetal health status (Normal, Suspect, or Pathological) based on fetal heart rate parameters. this project offers a user-friendly interface with an orange theme and robust predictive capabilities.
 
 ## Project Overview
 
@@ -39,7 +39,7 @@ fetal-health/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Fetal-Health.git
+   git clone https://github.com/hriturajnarvekar27/FetalAl.git
    cd fetal-health
    ```
 
@@ -86,8 +86,6 @@ Compile each `.tex` file using `latexmk -pdf` (e.g., `latexmk -pdf project_initi
 ## Contributing
 
 Contributions are welcome! Fork the repository, make changes, and submit a pull request. Suggestions for UI enhancements or model improvements are encouraged.
-
-## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details (create one if needed).
 
