@@ -87,8 +87,4 @@ Compile each `.tex` file using `latexmk -pdf` (e.g., `latexmk -pdf project_initi
 
 Contributions are welcome! Fork the repository, make changes, and submit a pull request. Suggestions for UI enhancements or model improvements are encouraged.
 
-This project is licensed under the MIT License. See the `LICENSE` file for details (create one if needed).
 
-## Contact
-
-For inquiries, contact Sakshi Patil at sakshi.patil@example.com.
